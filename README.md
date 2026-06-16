@@ -22,9 +22,13 @@ Venkata Lakshmi <sub>AUCE</sub>
 
 > Note: This is Markdown script
 
+This is the 'git commands' markdown script
 
-
-
+'''
+a=1
+b=2
+print(a+b)
+'''
 
 
 
